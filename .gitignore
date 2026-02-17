@@ -2,3 +2,4 @@
 build/
 /build
 .build/
+app/build/
